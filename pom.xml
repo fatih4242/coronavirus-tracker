@@ -37,6 +37,12 @@
 			<scope>test</scope>
 		</dependency>
 
+		<dependency>
+			<groupId>org.junit.jupiter</groupId>
+			<artifactId>junit.jupiter</artifactId>
+			<scope>5.8.2</scope>
+		</dependency>
+
 	</dependencies>
 
 	<build>
